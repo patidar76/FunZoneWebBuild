@@ -1,2 +1,2 @@
 # FunZoneWebBuild
-for hosting purpose
+for deployment purpose
